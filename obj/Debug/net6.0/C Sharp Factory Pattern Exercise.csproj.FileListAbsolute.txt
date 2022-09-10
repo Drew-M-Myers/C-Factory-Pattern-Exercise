@@ -1,0 +1,15 @@
+C:\Users\drewm\source\repos\C Sharp Factory Pattern Exercise\C Sharp Factory Pattern Exercise\obj\Debug\net6.0\C Sharp Factory Pattern Exercise.csproj.AssemblyReference.cache
+C:\Users\drewm\source\repos\C Sharp Factory Pattern Exercise\C Sharp Factory Pattern Exercise\obj\Debug\net6.0\C Sharp Factory Pattern Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drewm\source\repos\C Sharp Factory Pattern Exercise\C Sharp Factory Pattern Exercise\obj\Debug\net6.0\C Sharp Factory Pattern Exercise.AssemblyInfoInputs.cache
+C:\Users\drewm\source\repos\C Sharp Factory Pattern Exercise\C Sharp Factory Pattern Exercise\obj\Debug\net6.0\C Sharp Factory Pattern Exercise.AssemblyInfo.cs
+C:\Users\drewm\source\repos\C Sharp Factory Pattern Exercise\C Sharp Factory Pattern Exercise\obj\Debug\net6.0\C Sharp Factory Pattern Exercise.csproj.CoreCompileInputs.cache
+C:\Users\drewm\source\repos\C Sharp Factory Pattern Exercise\C Sharp Factory Pattern Exercise\bin\Debug\net6.0\C Sharp Factory Pattern Exercise.exe
+C:\Users\drewm\source\repos\C Sharp Factory Pattern Exercise\C Sharp Factory Pattern Exercise\bin\Debug\net6.0\C Sharp Factory Pattern Exercise.deps.json
+C:\Users\drewm\source\repos\C Sharp Factory Pattern Exercise\C Sharp Factory Pattern Exercise\bin\Debug\net6.0\C Sharp Factory Pattern Exercise.runtimeconfig.json
+C:\Users\drewm\source\repos\C Sharp Factory Pattern Exercise\C Sharp Factory Pattern Exercise\bin\Debug\net6.0\C Sharp Factory Pattern Exercise.dll
+C:\Users\drewm\source\repos\C Sharp Factory Pattern Exercise\C Sharp Factory Pattern Exercise\bin\Debug\net6.0\C Sharp Factory Pattern Exercise.pdb
+C:\Users\drewm\source\repos\C Sharp Factory Pattern Exercise\C Sharp Factory Pattern Exercise\obj\Debug\net6.0\C Sharp Factory Pattern Exercise.dll
+C:\Users\drewm\source\repos\C Sharp Factory Pattern Exercise\C Sharp Factory Pattern Exercise\obj\Debug\net6.0\refint\C Sharp Factory Pattern Exercise.dll
+C:\Users\drewm\source\repos\C Sharp Factory Pattern Exercise\C Sharp Factory Pattern Exercise\obj\Debug\net6.0\C Sharp Factory Pattern Exercise.pdb
+C:\Users\drewm\source\repos\C Sharp Factory Pattern Exercise\C Sharp Factory Pattern Exercise\obj\Debug\net6.0\C Sharp Factory Pattern Exercise.genruntimeconfig.cache
+C:\Users\drewm\source\repos\C Sharp Factory Pattern Exercise\C Sharp Factory Pattern Exercise\obj\Debug\net6.0\ref\C Sharp Factory Pattern Exercise.dll
